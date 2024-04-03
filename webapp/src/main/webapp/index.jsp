@@ -15,7 +15,7 @@
             text-align: center;
         }
         .container {
-            background-image: url('ameerpet_building.jpg'); /* Image of Ameerpet building */
+            background-image: url('https://en.m.wikipedia.org/wiki/File:Full_view_of_Mythrivanam_Building.jpg'); /* Image of Ameerpet building */
             background-size: cover; /* Cover the entire container with the background image */
             background-position: center; /* Center the background image */
             padding: 20px;
