@@ -4,7 +4,7 @@
     <title>Welcome To SUDARSHAN GROUP OF INSTITUTIONS</title>
     <style>
         body {
-            background-color: #f0f0f0; /* Light gray background */
+            background-color: #eaeaea; /* Updated background color */
             color: red;
             margin: 0; /* Remove default margin */
             padding: 0; /* Remove default padding */
@@ -15,7 +15,7 @@
             text-align: center;
         }
         .container {
-            background-image: url('https://en.m.wikipedia.org/wiki/File:Full_view_of_Mythrivanam_Building.jpg'); /* Image of Ameerpet building */
+            background-image: url('maitrivanam_building.jpg'); /* Image of Maitrivanam building */
             background-size: cover; /* Cover the entire container with the background image */
             background-position: center; /* Center the background image */
             padding: 20px;
